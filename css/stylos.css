@@ -148,7 +148,7 @@
         bottom: -3px;
 
         mask: var(--character-top-image-src) bottom / 100% no-repeat;
-       --webkit-mask: var(--character-top-image-src) bottom / 100% no-repeat;
+       -webkit-mask: var(--character-top-image-src) bottom / 100% no-repeat;
       }
 
       .world-characters#bottom-characters {
