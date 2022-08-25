@@ -135,7 +135,7 @@
       color: var(--primary-color-contrast);
       }
      
-      #world-characters {
+      .world-characters {
         width: 100%;
         max-width: 900px;
         position: absolute;
@@ -159,6 +159,6 @@
         position: relative;
 
         mask: var(--character-bottom-image-src) bottom / 100% no-repeat;
-        --webkit-mask: var(--character-bottom-image-src) bottom / 100% no-repeat;
+        -webkit-mask: var(--character-bottom-image-src) bottom / 100% no-repeat;
 
       }
