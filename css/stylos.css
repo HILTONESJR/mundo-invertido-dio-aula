@@ -336,7 +336,7 @@
 
   #section-form .form-container::after {
     content: "";
-    border-color: var(--highlight-color);
+    backgrond-color: var(--highlight-color);
     width: 100%;
     height: 100%;
     position: absolute;
