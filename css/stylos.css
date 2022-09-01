@@ -329,7 +329,7 @@
     align-items: center;
   }
 
-  #section-form .form-content {
+  #section-form .form-container {
     flex-basis: 50%;
     position: relative;
   }
