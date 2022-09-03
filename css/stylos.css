@@ -345,7 +345,7 @@
     z-index: -1;
   }
 
-  #section-form .form-content form {
+  #section-form .form-container form {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -355,7 +355,7 @@
     text-align: left;
   }
 
-  #section-form .form-content form button {
+  #section-form .form-container form button {
     border: none;
     background-color: var(--field-background-color);
     color: var(--primary-color-contrast);
@@ -363,7 +363,7 @@
     align-self: center;
   }
 
-  #section-form .form-content form button::hover {
+  #section-form .form-container form-button::hover {
     background-color: var(--primary-color-contrast);
     color: var(--field-background-color);
   }
