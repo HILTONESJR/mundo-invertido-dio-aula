@@ -363,7 +363,7 @@
     align-self: center;
   }
 
-  #section-form .form-container form-button::hover {
+  #section-form .form-container form button::hover {
     background-color: var(--primary-color-contrast);
     color: var(--field-background-color);
   }
