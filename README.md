@@ -9,7 +9,23 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
+<li>GIT</li>
+<li></li>
 
 </ul>
+<HR>
+<ul>
+
+<li>Classes</li>
+<li>Containers</li>
+<li>Sections</li>
+<li>Variaveis</li>
+<li>Estilos de Fontes</li>
+<li>Rotações e Transições</li>
+<li>Alinhamentos e Espaçamentos</li>
+</ul>
+<HR>
+
+Projeto desenvendo uma lading pagem, tema Stranger Things Mundo Invertido, fornecido pela semana do front-end pela dia.
 
 Projeto de estudo dio + inicialização a ultilização do GIT
