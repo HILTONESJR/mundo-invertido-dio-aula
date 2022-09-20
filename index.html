@@ -126,20 +126,20 @@
     
     <script type="module" src="images/js/main.js"></script>
     <script>
-      window.addEventListerner{'click', function() {
-        const audio = document.getElementById(´music´);
+      window.addEventListerner('click', function() {
+        const audio = document.getElementById('music');
         audio.play();
         audio.volume = 0.2;
-      }}
-      
+      })
+     
       function switchTheme() {
   document.body.classList.toggle('dark-theme');
   document.body.classList.toggle('light-theme');
-        
+      }
         const theme = document.body.classList[0];
         const music = theme === 'light-theme' ? 'normal-world.mpeg' : 'interted-world.mpeg'
         
-        const audio = document.getElementById(´music´);
+        const audio = document.getElementById('music');
         audio.src = 'images/musics/${music}';
         audio.play();
         audio.volume = 0.2;
