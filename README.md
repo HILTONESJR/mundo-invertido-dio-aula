@@ -10,8 +10,7 @@
 <li>CSS</li>
 <li>JavaScript</li>
 <li>GIT</li>
-<li></li>
-
+<li>Visual Code</li>
 </ul>
 <HR>
 <ul>
