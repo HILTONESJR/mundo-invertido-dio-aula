@@ -1,10 +1,5 @@
 <img src="images/banner/logo.svg" align="center">
 
-img {
-align: center;
-
-}
-
 [MUNDO INVERTIDO DIO AULA](https://hiltonesjr.github.io/mundo-invertido-dio-aula/) <br>
 
 
