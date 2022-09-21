@@ -116,7 +116,7 @@
   
       header {
         background-color: var(--header-background-color);
-        min-height: 850px;
+        min-height: 642px;
         display: flex;
         flex-direction: column;
         align-items: center;
