@@ -25,6 +25,6 @@
 </ul>
 <HR>
 
-Projeto desenvolvendo uma lading pagem, tema Stranger Things Mundo Invertido, fornecido pela semana do front-end pela dia.
+Projeto desenvolvendo uma ladding page, tema Stranger Things Mundo Invertido, fornecido pela semana do front-end pela dio.
 
 Projeto de estudo dio + inicialização a ultilização do GIT
